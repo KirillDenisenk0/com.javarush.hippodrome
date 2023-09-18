@@ -1,0 +1,153 @@
+2023-09-04 19:49:37,956 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:49:37,963 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:49:37,964 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:49:37,964 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:49:38,792 INFO  Main: Окончание скачек. Победитель: Cherry
+ 2023-09-04 19:56:45,108 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:56:45,111 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:56:45,112 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:56:45,112 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:57:05,670 INFO  Main: Окончание скачек. Победитель: Lobster
+ 2023-09-04 19:57:32,065 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:57:32,067 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:57:32,068 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:57:32,068 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:57:33,174 INFO  Main: Окончание скачек. Победитель: Cherry
+ 2023-09-04 19:58:58,102 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:58:58,104 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:58:58,104 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:58:58,105 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:58:58,105 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:58:58,105 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:58:58,105 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:58:58,105 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:58:58,105 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:58:58,138 INFO  Main: Окончание скачек. Победитель: Lobster
+ 2023-09-04 19:59:04,644 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:59:04,646 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:59:04,647 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:59:04,647 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:59:07,502 INFO  Main: Окончание скачек. Победитель: Cherry
+ 2023-09-04 19:59:19,499 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:59:19,501 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:59:19,502 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:59:19,502 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 19:59:32,277 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 19:59:32,279 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 19:59:32,280 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 19:59:32,280 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:00:07,877 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:00:07,879 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:00:07,880 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:00:07,880 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:00:18,989 INFO  Main: Окончание скачек. Победитель: Cherry
+ 2023-09-04 20:00:21,988 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:00:21,990 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:00:21,991 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:00:21,991 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:00:37,744 INFO  Main: Окончание скачек. Победитель: Cherry
+ 2023-09-04 20:01:15,605 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:01:15,607 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:01:15,608 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:01:15,608 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:01:36,071 INFO  Main: Окончание скачек. Победитель: Pegasus
+ 2023-09-04 20:02:10,305 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:02:10,307 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:02:10,308 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:02:10,308 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:02:26,395 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:02:26,397 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:02:26,398 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:02:26,398 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:02:26,398 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:02:26,398 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:02:26,398 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:02:26,398 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:02:26,398 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:02:44,660 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:02:44,662 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:02:44,663 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:02:44,663 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:03:02,247 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:03:02,249 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:03:02,250 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:03:02,250 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:03:24,222 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:03:24,224 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:03:24,225 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:03:24,225 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:03:35,431 DEBUG Horse: Создание Horse, имя Bucephalus скорость 2.4
+ 2023-09-04 20:03:35,432 DEBUG Horse: Создание Horse, имя Ace of Spades скорость 2.5
+ 2023-09-04 20:03:35,433 DEBUG Horse: Создание Horse, имя Zephyr скорость 2.6
+ 2023-09-04 20:03:35,433 DEBUG Horse: Создание Horse, имя Blaze скорость 2.7
+ 2023-09-04 20:03:35,433 DEBUG Horse: Создание Horse, имя Lobster скорость 2.8
+ 2023-09-04 20:03:35,433 DEBUG Horse: Создание Horse, имя Pegasus скорость 2.9
+ 2023-09-04 20:03:35,433 DEBUG Horse: Создание Horse, имя Cherry скорость 3.0
+ 2023-09-04 20:03:35,434 DEBUG Hippodrome: Создание Hippodrome, лошадей 7
+ 2023-09-04 20:03:35,434 INFO  Main: Начало скачек. Количество участников: 7
+ 2023-09-04 20:03:55,952 INFO  Main: Окончание скачек. Победитель: Cherry
